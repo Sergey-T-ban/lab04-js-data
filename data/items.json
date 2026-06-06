@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "HTML Fundamentals",
+    "category": "frontend",
+    "description": "Основи HTML для початківців",
+    "level": "Beginner",
+    "rating": 4.5,
+    "price": 99,
+    "featured": true,
+    "image": "https://picsum.photos/300/200?1"
+  },
+  {
+    "id": 2,
+    "title": "CSS Mastery",
+    "category": "frontend",
+    "description": "Поглиблене вивчення CSS",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "price": 120,
+    "featured": false,
+    "image": "https://picsum.photos/300/200?2"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Essentials",
+    "category": "frontend",
+    "description": "Сучасний JavaScript ES6+",
+    "level": "Intermediate",
+    "rating": 5,
+    "price": 150,
+    "featured": true,
+    "image": "https://picsum.photos/300/200?3"
+  },
+  {
+    "id": 4,
+    "title": "UI Design Basics",
+    "category": "design",
+    "description": "Основи дизайну інтерфейсів",
+    "level": "Beginner",
+    "rating": 4.4,
+    "price": 90,
+    "featured": false,
+    "image": "https://picsum.photos/300/200?4"
+  },
+  {
+    "id": 5,
+    "title": "Figma Pro",
+    "category": "design",
+    "description": "Робота у Figma",
+    "level": "Advanced",
+    "rating": 4.9,
+    "price": 180,
+    "featured": true,
+    "image": "https://picsum.photos/300/200?5"
+  },
+  {
+    "id": 6,
+    "title": "React Basics",
+    "category": "frontend",
+    "description": "Створення SPA на React",
+    "level": "Intermediate",
+    "rating": 4.7,
+    "price": 200,
+    "featured": true,
+    "image": "https://picsum.photos/300/200?6"
+  },
+  {
+    "id": 7,
+    "title": "UX Research",
+    "category": "design",
+    "description": "Дослідження користувацького досвіду",
+    "level": "Intermediate",
+    "rating": 4.6,
+    "price": 140,
+    "featured": false,
+    "image": "https://picsum.photos/300/200?7"
+  },
+  {
+    "id": 8,
+    "title": "Node.js Introduction",
+    "category": "backend",
+    "description": "Розробка серверної частини",
+    "level": "Beginner",
+    "rating": 4.8,
+    "price": 170,
+    "featured": true,
+    "image": "https://picsum.photos/300/200?8"
+  },
+  {
+    "id": 9,
+    "title": "Express Framework",
+    "category": "backend",
+    "description": "Робота з Express",
+    "level": "Intermediate",
+    "rating": 4.7,
+    "price": 180,
+    "featured": false,
+    "image": "https://picsum.photos/300/200?9"
+  },
+  {
+    "id": 10,
+    "title": "MongoDB Basics",
+    "category": "backend",
+    "description": "База даних MongoDB",
+    "level": "Beginner",
+    "rating": 4.5,
+    "price": 160,
+    "featured": false,
+    "image": "https://picsum.photos/300/200?10"
+  }
+]
